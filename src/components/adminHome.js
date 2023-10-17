@@ -166,7 +166,7 @@ function uploadImage() {
   return (
     <div className="auth-wrapper" style={{ height: "auto" }}>
       <div className="auth-inner" style={{ width: "auto" }}>
-        <h3>Welcom Admin</h3>
+        <h3>Welcome Admin</h3>
         <br></br>
         <button  onClick={logOut} style={{float: "right", marginRight:"15px", marginTop:"10px", marginBottom:"10px" }} className="btn btn-primary">
           Log Out
